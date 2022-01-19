@@ -1,10 +1,7 @@
 # test
 
 <html>
-  <head>
-    <meta http-equiv="refresh" content="7; url='https://www.w3docs.com'" />
-  </head>
   <body>
-    <p>Please follow <a href="https://www.w3docs.com">this link</a>.</p>
+    <p>Please follow <a href="https://krahsc.google.com/oidc/cse/callback">this link</a>.</p>
   </body>
 </html>
